@@ -1,1 +1,1 @@
-document.querySelector('.btn').addEventListener('mouseenter',e=>e.target.style.transform='scale(1.05)');document.querySelector('.btn').addEventListener('mouseleave',e=>e.target.style.transform='scale(1)');
+document.querySelectorAll('.grid div').forEach(x=>{x.onmouseenter=()=>x.style.transform='translateY(-6px)';x.onmouseleave=()=>x.style.transform='translateY(0)';});
