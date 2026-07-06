@@ -1,0 +1,7 @@
+body{margin:0;font-family:Arial,sans-serif;background:#0b0b0b;color:#fff}
+header{display:flex;justify-content:space-between;align-items:center;padding:20px 40px;position:sticky;top:0;background:#111}
+nav a{color:#fff;text-decoration:none;margin-left:20px}
+.hero{padding:120px 20px;text-align:center;background:linear-gradient(135deg,#111,#1f4cff)}
+section{max-width:900px;margin:auto;padding:60px 20px}
+h2{color:#6ab0ff}
+ul{line-height:2}
