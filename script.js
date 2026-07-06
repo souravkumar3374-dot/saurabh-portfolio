@@ -1,1 +1,1 @@
-document.querySelectorAll('.card').forEach(c=>{c.onmouseenter=()=>c.style.boxShadow='0 10px 30px rgba(59,130,246,.35)';c.onmouseleave=()=>c.style.boxShadow='none';});
+document.querySelectorAll('.project').forEach(card=>{card.addEventListener('mouseenter',()=>{card.style.boxShadow='0 15px 35px rgba(37,99,235,.35)'});card.addEventListener('mouseleave',()=>{card.style.boxShadow='none'})});
