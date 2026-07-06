@@ -1,13 +1,1 @@
-*{margin:0;padding:0;box-sizing:border-box}
-body{font-family:Arial,sans-serif;background:#070707;color:#fff}
-header{display:flex;justify-content:space-between;padding:20px 8%;background:#101010;position:sticky;top:0}
-nav a{color:#fff;text-decoration:none;margin-left:18px}
-.hero{text-align:center;padding:100px 20px;background:linear-gradient(135deg,#0d1b2a,#2563eb)}
-section{padding:70px 10%}
-h2{margin-bottom:25px;color:#8ec5ff}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:22px}
-.project{background:#141414;border:1px solid #262626;border-radius:16px;padding:25px;transition:.3s}
-.project:hover{transform:translateY(-8px);border-color:#3b82f6}
-button{margin-top:18px;padding:12px 22px;border:none;border-radius:30px;background:#2563eb;color:#fff;cursor:pointer}
-#contact{text-align:center}
-#contact a{color:#8ec5ff;text-decoration:none}
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:Arial,sans-serif;background:#050505;color:#fff}header{padding:24px;text-align:center;background:#111}.hero{text-align:center;padding:120px 20px;background:linear-gradient(135deg,#111,#1d4ed8)}.hero h2{font-size:44px;margin-bottom:15px}.contact{display:flex;justify-content:center;padding:80px 20px}.card{max-width:520px;width:100%;background:#121212;border:1px solid #2b2b2b;border-radius:18px;padding:35px;box-shadow:0 10px 30px rgba(0,0,0,.35)}.card h3{color:#7db6ff;margin-bottom:20px}.card p{margin:18px 0;line-height:1.6}.card a{color:#9bc8ff}.btn{display:inline-block;margin-top:18px;padding:14px 28px;background:#2563eb;color:#fff;text-decoration:none;border-radius:30px}footer{text-align:center;padding:30px;color:#888;border-top:1px solid #222}
